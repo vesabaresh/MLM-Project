@@ -1,5 +1,5 @@
 <?php
-
+// sabari code : Thursday
 function isValidEmail($str){
 return filter_var($str, FILTER_VALIDATE_EMAIL);
 }
